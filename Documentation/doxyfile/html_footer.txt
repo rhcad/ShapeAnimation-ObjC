@@ -1,0 +1,4 @@
+<hr size="1"><address>
+<small><a href="https://github.com/rhcad/ShapeAnimation">ShapeAnimation framework</a>. Copyright (c) 2015, <a href="mailto:rhcad@hotmail.com">Zhang Yungui</a>. All rights reserved.</small></address>
+</body>
+</html>
