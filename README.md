@@ -1,5 +1,5 @@
-ShapeAnimation
-==============
+ShapeAnimation-ObjC
+===================
 
 Vector animation framework in Obj-C based on CoreAnimation for iOS and OS X.
 With it you can easily create various animations.
@@ -127,4 +127,4 @@ view.didPan = ^(SAShapeView *view, SAPanRecognizer *sender) {
 
 ## License
 
-ShapeAnimation is released under a BSD License. See [LICENSE file](LICENSE) for details.
+ShapeAnimation-ObjC is released under a BSD License. See [LICENSE file](LICENSE) for details.
